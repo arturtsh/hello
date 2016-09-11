@@ -1,0 +1,23 @@
+h2{	text-align:center;
+	color:grey;
+	font-family:Times;
+	font-size:45px;
+}
+
+li{	list-style:none;
+	text-align:center;
+	color:red;
+	text-decoration:none;
+	
+}
+a{	float:right;
+	color:#00ff99;
+	text-decoration:none;
+	font-size:25px;
+	
+}
+a:hover{
+	color:blue;
+	font-size:35px;
+	text-decoration:underline;
+}
